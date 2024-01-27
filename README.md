@@ -3,18 +3,18 @@
 [![Website](https://img.shields.io/website?label=SunnySingh.com&style=for-the-badge&url=https://sun-fox.github.io/)](https://sun-fox.github.io/)
 
 
-## I'm a Final Year Bachelor's degree student!!
-
-- 👯 Currently a Machine Learning intern at Synopsys Inc.
-- 🌱 Eager to try and learn new things.
--  🥅Also to contribute more and more to Open Source projects.
+## I'm currently a Software Engineer at [GRAB](https://www.grab.com/)
+Past Experiences:
+- Data Scientist at [OLA](https://www.olacabs.com/).
+- Software Engineer at [Mentor Graphics(now Siemens EDA)](https://eda.sw.siemens.com/en-US/).
+- Data Engineer at [Synopsys](https://www.synopsys.com/).
 <br />
 
 ### Connect with me:
 
-[<img align="left" alt="V-Sharma10" width="35px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="V-Sharma | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="V-Sharma | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](<mailto:2018ugec@nitjsr.ac.in>)
+[<img align="left" alt="Sunny-10" width="35px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Sunny | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sunny | Gmail" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](<mailto:sunnysingh.ofcl@gmail.com>)
 
 <br />
 <br />
